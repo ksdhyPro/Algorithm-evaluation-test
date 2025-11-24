@@ -1,0 +1,6 @@
+__pycache__
+frontend
+logs
+projects
+*.md
+.gitignore
